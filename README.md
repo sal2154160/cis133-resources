@@ -1,2 +1,5 @@
 # cis133-resources
-assignment 1.1
+## assignment 1.1
+<p>While I have never used HTML or CSS very much the time I did use it was in Highschool due to we were learning some basics on it and how we could try to improve our schools website. I was on the internet a lot trying to learn things to try to bring my ideas to life and I ended up using W3School as well as Youtube a ton!</p>
+<p>I am sure there are probably are better ways to learn <a href="https://www.w3schools.com/Html/">HTML</a> and <a href="https://www.w3schools.com/css/css_functions.asp">CSS</a> than from W3School and Youtube but at that moment its all I could think of to use. I would just look up basic concepts that might be useful for my crazy ideas and try to get things to work together to do what I pictured in my head. These helped me learn just enough for me to get creative and have fun with HTML and CSS so for it served its purpose as being a great stepping stone into learning and questioning how all of this works and to use this information together.</p>
+<p>I wish I could give a better response to this question but once that assignment was over I didn't keep trying to learn more of it and eventually forgot most of what I did learn.</p>
